@@ -42,7 +42,10 @@ The application can be started from the command line, using the command 'npm sta
 
 ## Demonstration
 
-To view a video demonstration of the application's functionality click <a> here </a>
+To view a video demonstration of the application's functionality click <a href="https://watch.screencastify.com/v/p3JUKZR0AFTlyMrLDCRg"> here </a>
+
+<img src="Assets/images/ecommerce-backend01.png" />
+<img src="Assets/images/ecommerce-backend02.png" />
 
 <br>
 
