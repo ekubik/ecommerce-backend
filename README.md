@@ -58,3 +58,7 @@ The project repository can be accessed at <a href="https://github.com/ekubik/eco
 ## Contact
 
 Contact Ewa at <a href="mailto:ewa.kubik@hotmail.com"> ewa.kubik@hotmail.com </a>
+
+
+## Additional Comments:
+Please note that despite the fact that an error appears when trying to update a product, the product details are updated, and new data is saved 
